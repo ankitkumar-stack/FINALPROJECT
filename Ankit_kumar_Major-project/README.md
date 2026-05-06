@@ -41,5 +41,5 @@ The physical schematic was successfully validated using the Wokwi Digital Twin e
 4. Press **Play** to initiate the non-blocking logic loop.
 5. Interact with the DHT22 and LDR sliders to trigger autonomous actuations.
 
-**Developed by:** Bharath M.  
+**Developed by:** Ankit kumar.  
 *Final Year IoT Engineering Project*
